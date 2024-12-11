@@ -1,0 +1,1 @@
+This repository demonstrates a common Java programming error: the ArrayIndexOutOfBoundsException.  The `bug.java` file contains code that attempts to access an array element beyond its bounds. The `bugSolution.java` file shows how to correct this error using proper array index checking.
